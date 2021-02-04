@@ -1,0 +1,1 @@
+MsgBox "Level successfuly saved.", vbOk + vbInformation, "Information"
